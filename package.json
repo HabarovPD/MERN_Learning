@@ -16,5 +16,12 @@
     "bugs": {
         "url": "https://github.com/HabarovPD/MERN_Learning/issues"
     },
-    "homepage": "https://github.com/HabarovPD/MERN_Learning#readme"
+    "homepage": "https://github.com/HabarovPD/MERN_Learning#readme",
+    "dependencies": {
+        "express": "^4.17.3",
+        "mongoose": "^6.2.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
 }
