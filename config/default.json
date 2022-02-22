@@ -1,0 +1,6 @@
+{
+    "EXPRESS_PORT": 5000,
+    "MongoURL": "mongodb+srv://HabarovPD:ss5PEHTVLHyvr0WJ@cluster0.vz1th.mongodb.net/MERN_Learning?retryWrites=true&w=majority",
+    "sol": "s01",
+    "jwtKey": "1qaz!QAZ"
+}

@@ -1,2 +1,29 @@
 try learn MongoDB.Express.React.NodeJS
 need delete folder node_modules from repository
+
+// init new project
+npm init
+
+// express
+npm install express
+
+// MongoDB object modeling
+npm install mongoose
+
+// connect server & client app
+npm install concurrent
+
+// node monotor
+npm install nodemon
+
+// crypt lib
+npm install bcryptjs
+
+// token lib
+npm install jsonwebtoken
+
+// validator 
+npm install express-validator
+
+// css lib
+client npm install materialize-css@next
