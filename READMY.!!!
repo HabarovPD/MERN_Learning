@@ -27,3 +27,6 @@ npm install express-validator
 
 // css lib
 client npm install materialize-css@next
+
+// client router lib
+client npm install react-router-dom
